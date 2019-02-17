@@ -7,4 +7,6 @@ window.addEventListener('scroll', () => {
         children[i].style.transform = 'translateY(-' + (window.pageYOffset*speed[i]) +'px)';
     }
  });
+
+ 
  
